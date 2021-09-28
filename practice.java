@@ -11,6 +11,8 @@ public class practice
 
       System.out.println(bruh.format(1.4355));
 
+
+      System.out.println(Math.random());
   }
 }
 

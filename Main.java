@@ -8,6 +8,6 @@ class Main {
     //TheMathClass.main();
     //TheRandomClass.main();
     //RoundingAndDecimalFormat.main();
-    practice.main();
+    //practice.main();
   }
 }

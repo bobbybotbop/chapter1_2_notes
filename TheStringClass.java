@@ -48,7 +48,7 @@ public class TheStringClass
     System.out.println(loc3);
 
     System.out.println("hello".indexOf("l"));
-    //if find multiple, it chooses the first 1
+    /*//if find multiple, it chooses the first 1
 
     String end = dayOfWeek.substring(3);
     System.out.println(end);
@@ -83,6 +83,6 @@ public class TheStringClass
     int compVal3 = "Dog".compareTo("cat");
     System.out.println(compVal3);
     //prints -31
-
+*/
   }
 }
